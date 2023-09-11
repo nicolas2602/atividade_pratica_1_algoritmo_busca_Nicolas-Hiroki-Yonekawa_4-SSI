@@ -1,6 +1,10 @@
-# Atividade Prática 1: Implementação de busca linear e busca binária (Estrutura de Dados II)
-Nome: Nicolas Hiroki Yonekawa
+# Atividade Prática 1: Algoritmo de Busca (Estrutura de Dados II)
+__Nome:__ Nicolas Hiroki Yonekawa
 
-Curso: Sistemas de Informação
+__RA:__ 180433
 
-Semestre: 4°
+__Curso:__ Sistemas de Informação
+
+__Semestre:__ 4°
+
+__Disciplina:__ Estrutura de Dados II
